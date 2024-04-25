@@ -17,11 +17,11 @@ The communication between the NodeMCU and the platform uses HTTP requests.
 
 ![image](https://github.com/codrinalisaru/Thermo-logger-Hardware-and-Software-implementation/assets/94629883/cef01746-4766-46b9-86ab-aeae362b2b2f)
 
-5. Proteus simulation
+4. Proteus simulation
 
 ![image](https://github.com/codrinalisaru/Thermo-logger-Hardware-and-Software-implementation/assets/94629883/962b2c8e-3664-494b-9dde-a6fd4ed90802)
 
-4. Used components:
+5. Used components:
 
 - PIC18F4550 microcontroller;
 - LM016L LCD display;
