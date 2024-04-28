@@ -1,6 +1,6 @@
 # Thermo-logger-Hardware-and-Software-implementation
 
-1. What is this project supposed to do?
+1. What is this project about?
 
 Answer: This project is a digital thermometer which used the PIC18F4550 microcontroller. The ambiental temperature will be registered using an external sensor.
 
